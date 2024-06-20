@@ -1,0 +1,267 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "Sush001",
+      "firstName": "Sushant",
+      "lastName": "Patil",
+      "email": "sushant.patil@ness.com",
+      "password": "password",
+      "isAdmin": false,
+      "biography": "I love technology, programming, computers, mobile devices and the world of tomorrow",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHA3iuro9T34ZwBKvcwFO1S2ITAecdR5IphQ&usqp=CAU",
+      "categories": [
+        {
+          "id": 1,
+          "name": "Technology",
+          "description": "NA"
+        }
+      ],
+      "followers": [
+        {
+          "id": 7,
+          "username": "Sush007",
+          "firstName": "Sushant",
+          "lastName": "Patil",
+          "email": "sushant.patil7@ness.com",
+          "password": "password",
+          "isAdmit": false,
+          "biography": "Founder of XYZ-1 Co.",
+          "imageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+          "categories": [
+            {
+              "id": 1,
+              "name": "Technology",
+              "description": "NA"
+            }
+          ]
+        }
+      ],
+      "following": [
+        {
+          "id": 7,
+          "username": "Sush007",
+          "firstName": "Sushant",
+          "lastName": "Patil",
+          "email": "sushant.patil7@ness.com",
+          "password": "password",
+          "isAdmit": false,
+          "biography": "Founder of XYZ-1 Co.",
+          "imageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+          "categories": [
+            {
+              "id": 1,
+              "name": "Technology",
+              "description": "NA"
+            }
+          ]
+        }
+      ],
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 2,
+      "username": "Ranj001",
+      "firstName": "Ranjith",
+      "lastName": "M",
+      "email": "ranjith@ness.com",
+      "password": "password",
+      "biography": "Founder of ABC Co.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvxAOVOCCoYSsornKXmWEhdFU_h5hkPFHzw&usqp=CAU",
+      "categories": [
+        {
+          "id": 1,
+          "name": "Technology",
+          "description": "NA"
+        }
+      ],
+      "followers": [
+        {
+          "id": 7,
+          "username": "Sush007",
+          "firstName": "Sushant",
+          "lastName": "Patil",
+          "email": "sushant.patil7@ness.com",
+          "password": "password",
+          "isAdmit": false,
+          "biography": "Founder of XYZ-1 Co.",
+          "imageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+          "categories": [
+            {
+              "id": 1,
+              "name": "Technology",
+              "description": "NA"
+            }
+          ]
+        }
+      ],
+      "following": [
+        {
+          "id": 7,
+          "username": "Sush007",
+          "firstName": "Sushant",
+          "lastName": "Patil",
+          "email": "sushant.patil7@ness.com",
+          "password": "password",
+          "isAdmit": false,
+          "biography": "Founder of XYZ-1 Co.",
+          "imageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+          "categories": [
+            {
+              "id": 1,
+              "name": "Technology",
+              "description": "NA"
+            }
+          ]
+        }
+      ],
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": 3,
+      "username": "Him001",
+      "firstName": "Himanshu",
+      "lastName": "S",
+      "email": "Himanshu@ness.com",
+      "password": "password",
+      "biography": "Founder of PQR Co.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvxAOVOCCoYSsornKXmWEhdFU_h5hkPFHzw&usqp=CAU",
+      "categories": [
+        {
+          "id": 1,
+          "name": "Technology",
+          "description": "NA"
+        }
+      ],
+      "followers": [],
+      "following": [],
+      "createdAt": "",
+      "updatedAt": ""
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "postId": "MALESUADA-PELL-202312",
+      "title": "Malesuada pellentesque elit eget gravida cum. Leo duis ut diam quam.",
+      "postDetails": {
+        "id": 1,
+        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh. Integer ultrices nec metus id tempor. Quisque in quam volutpat, imperdiet ex ut, ullamcorper ante. Fusce ac placerat est. Nulla id neque magna. Nunc dapibus metus risus, in viverra tellus porta eget. Aliquam vel nunc nisl. Curabitur consequat nisl id arcu vestibulum, quis auctor elit elementum. Vestibulum vitae enim ut leo sagittis elementum vitae lacinia turpis. In euismod purus sit amet erat elementum, at vehicula orci ultrices.</p><p>Phasellus ut egestas dui, at accumsan sapien. Donec hendrerit a lorem a pellentesque. Phasellus blandit, justo sit amet lacinia ultricies, risus nisl aliquam eros, quis vehicula neque felis non nisi. Praesent ultrices nec turpis ac auctor. Praesent hendrerit mi sed lobortis lobortis. Aenean malesuada tristique gravida. Morbi eleifend enim eu ante imperdiet dignissim.</p><p>Cras et enim vitae leo feugiat aliquam. Proin non lacus lectus. Donec imperdiet risus quis elit porta porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque rhoncus ut justo non posuere. Integer mollis neque at enim egestas luctus. Mauris luctus sapien eget luctus consectetur. Duis quis nulla nunc.</p><p>Praesent ullamcorper nulla tellus, id facilisis erat bibendum vitae. Cras eget nulla ut metus iaculis auctor. Vestibulum imperdiet est sit amet est accumsan, a sagittis nisl pharetra. Phasellus hendrerit in leo quis pharetra. Nullam consectetur imperdiet ultrices. Sed interdum risus mauris, id imperdiet massa porttitor ac. Cras viverra ipsum sed tincidunt bibendum. Nam vehicula nibh et sem luctus aliquam. Duis nec porttitor magna. Donec congue nunc condimentum egestas consectetur. Nulla ac nibh quis enim suscipit aliquet vel posuere lectus.</p><p>Phasellus scelerisque risus risus, sit amet molestie velit vulputate ut. Morbi ut risus facilisis, volutpat mi ac, pharetra odio. Quisque semper dapibus dui, vel sagittis ipsum auctor sit amet. Aliquam nec pretium ipsum, sit amet condimentum tortor. Nulla commodo mi ut leo sollicitudin sollicitudin. Vivamus ut faucibus arcu. Integer elit nunc, iaculis non augue vitae, elementum euismod ex. Cras eu luctus purus, eu fringilla dolor. Pellentesque iaculis sodales sem, nec suscipit ante sollicitudin nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet pharetra augue. Morbi in metus mattis, ullamcorper eros id, congue quam. In viverra, elit sed dignissim consectetur, tortor eros maximus magna, nec porta magna elit vitae eros.</p>",
+        "imageUrl": "https://www.pacegallery.com/media/images/16_9-2.width-2000.png",
+        "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh.Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh."
+      },
+      "comments": [
+        {
+          "id": 1,
+          "review": "This is Good",
+          "createdBy": "Author2",
+          "updatedAt": 1683440737971
+        },
+        {
+          "id": 2,
+          "review": "This is Excellent",
+          "createdBy": "Author2",
+          "updatedAt": 1683440837971
+        },
+        {
+          "id": 3,
+          "review": "This is Excellent",
+          "createdBy": "Author2",
+          "updatedAt": 1683441737971
+        },
+        {
+          "id": 4,
+          "review": "This is Excellent",
+          "createdBy": "Author2",
+          "updatedAt": 1683440747971
+        },
+        {
+          "id": 5,
+          "review": "This is Excellent",
+          "createdBy": "Author2",
+          "updatedAt": 1683440735971
+        },
+        {
+          "id": 6,
+          "review": "nadslalds",
+          "createdBy": null,
+          "updatedAt": 1683487477002
+        },
+        {
+          "id": 7,
+          "review": "ahfnjsfkalsdkafasf",
+          "createdBy": "Ranj001",
+          "updatedAt": 1683488002613
+        },
+        {
+          "id": 8,
+          "review": "sdoksdfksfs",
+          "createdBy": null,
+          "updatedAt": 1683707904880
+        }
+      ],
+      "category": "Technology",
+      "tags": [],
+      "createdAt": "",
+      "updatedAt": "Mar 17, 2022",
+      "createdBy": "Sush001",
+      "upVotedBy": [
+        "Ranj001",
+        null
+      ],
+      "downVotedBy": [
+        "Him001"
+      ],
+      "upVoteCount": 20,
+      "downVoteCount": 10,
+      "commentCount": 10
+    }
+  ],
+  "postList": [
+    {
+      "profilePhotoPath": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+      "author": "Sush001",
+      "authorFullName": "Sushant Patil",
+      "publishedDate": "Dec 11, 2022",
+      "title": "Placerat duis ultricies lacus sed turpis tincidunt.",
+      "displayImagePath": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+      "postId": "MALESUADA-PELL-202312",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh. Integer ultrices nec metus id tempor. Quisque in quam volutpat, imperdiet ex ut, ullamcorper ante. Fusce ac placerat est. Nulla id neque magna. Nunc dapibus metus risus, in viverra tellus porta eget. Aliquam vel nunc nisl. Curabitur consequat nisl id arcu vestibulum, quis auctor elit elementum. Vestibulum vitae enim ut leo sagittis elementum vitae lacinia turpis. In euismod purus sit amet erat elementum, at vehicula orci ultrices.</p><p>Phasellus ut egestas dui, at accumsan sapien. Donec hendrerit a lorem a pellentesque. Phasellus blandit, justo sit amet lacinia ultricies, risus nisl aliquam eros, quis vehicula neque felis non nisi. Praesent ultrices nec turpis ac auctor. Praesent hendrerit mi sed lobortis lobortis. Aenean malesuada tristique gravida. Morbi eleifend enim eu ante imperdiet dignissim.</p><p>Cras et enim vitae leo feugiat aliquam. Proin non lacus lectus. Donec imperdiet risus quis elit porta porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque rhoncus ut justo non posuere. Integer mollis neque at enim egestas luctus. Mauris luctus sapien eget luctus consectetur. Duis quis nulla nunc.</p><p>Praesent ullamcorper nulla tellus, id facilisis erat bibendum vitae. Cras eget nulla ut metus iaculis auctor. Vestibulum imperdiet est sit amet est accumsan, a sagittis nisl pharetra. Phasellus hendrerit in leo quis pharetra. Nullam consectetur imperdiet ultrices. Sed interdum risus mauris, id imperdiet massa porttitor ac. Cras viverra ipsum sed tincidunt bibendum. Nam vehicula nibh et sem luctus aliquam. Duis nec porttitor magna. Donec congue nunc condimentum egestas consectetur. Nulla ac nibh quis enim suscipit aliquet vel posuere lectus.</p><p>Phasellus scelerisque risus risus, sit amet molestie velit vulputate ut. Morbi ut risus facilisis, volutpat mi ac, pharetra odio. Quisque semper dapibus dui, vel sagittis ipsum auctor sit amet. Aliquam nec pretium ipsum, sit amet condimentum tortor. Nulla commodo mi ut leo sollicitudin sollicitudin. Vivamus ut faucibus arcu. Integer elit nunc, iaculis non augue vitae, elementum euismod ex. Cras eu luctus purus, eu fringilla dolor. Pellentesque iaculis sodales sem, nec suscipit ante sollicitudin nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet pharetra augue. Morbi in metus mattis, ullamcorper eros id, congue quam. In viverra, elit sed dignissim consectetur, tortor eros maximus magna, nec porta magna elit vitae eros.</p>",
+      "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh.Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh."
+    },
+    {
+      "profilePhotoPath": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+      "author": "Ranj001",
+      "authorFullName": "Ranjith M",
+      "publishedDate": "Dec 11, 2022",
+      "title": "Placerat duis ultricies lacus sed turpis tincidunt.",
+      "displayImagePath": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+      "postId": "MALESUADA-PELL-202312",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh. Integer ultrices nec metus id tempor. Quisque in quam volutpat, imperdiet ex ut, ullamcorper ante. Fusce ac placerat est. Nulla id neque magna. Nunc dapibus metus risus, in viverra tellus porta eget. Aliquam vel nunc nisl. Curabitur consequat nisl id arcu vestibulum, quis auctor elit elementum. Vestibulum vitae enim ut leo sagittis elementum vitae lacinia turpis. In euismod purus sit amet erat elementum, at vehicula orci ultrices.</p><p>Phasellus ut egestas dui, at accumsan sapien. Donec hendrerit a lorem a pellentesque. Phasellus blandit, justo sit amet lacinia ultricies, risus nisl aliquam eros, quis vehicula neque felis non nisi. Praesent ultrices nec turpis ac auctor. Praesent hendrerit mi sed lobortis lobortis. Aenean malesuada tristique gravida. Morbi eleifend enim eu ante imperdiet dignissim.</p><p>Cras et enim vitae leo feugiat aliquam. Proin non lacus lectus. Donec imperdiet risus quis elit porta porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque rhoncus ut justo non posuere. Integer mollis neque at enim egestas luctus. Mauris luctus sapien eget luctus consectetur. Duis quis nulla nunc.</p><p>Praesent ullamcorper nulla tellus, id facilisis erat bibendum vitae. Cras eget nulla ut metus iaculis auctor. Vestibulum imperdiet est sit amet est accumsan, a sagittis nisl pharetra. Phasellus hendrerit in leo quis pharetra. Nullam consectetur imperdiet ultrices. Sed interdum risus mauris, id imperdiet massa porttitor ac. Cras viverra ipsum sed tincidunt bibendum. Nam vehicula nibh et sem luctus aliquam. Duis nec porttitor magna. Donec congue nunc condimentum egestas consectetur. Nulla ac nibh quis enim suscipit aliquet vel posuere lectus.</p><p>Phasellus scelerisque risus risus, sit amet molestie velit vulputate ut. Morbi ut risus facilisis, volutpat mi ac, pharetra odio. Quisque semper dapibus dui, vel sagittis ipsum auctor sit amet. Aliquam nec pretium ipsum, sit amet condimentum tortor. Nulla commodo mi ut leo sollicitudin sollicitudin. Vivamus ut faucibus arcu. Integer elit nunc, iaculis non augue vitae, elementum euismod ex. Cras eu luctus purus, eu fringilla dolor. Pellentesque iaculis sodales sem, nec suscipit ante sollicitudin nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet pharetra augue. Morbi in metus mattis, ullamcorper eros id, congue quam. In viverra, elit sed dignissim consectetur, tortor eros maximus magna, nec porta magna elit vitae eros.</p>",
+      "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh.Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh."
+    },
+    {
+      "profilePhotoPath": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+      "author": "Him001",
+      "authorFullName": "Himanshu S",
+      "publishedDate": "Jan 30, 2023",
+      "title": "Gravida rutrum quisque non tellus orci ac auctor augue.",
+      "displayImagePath": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1afqo2.img?w=1920&h=1080&q=60&m=2&f=jpg",
+      "postId": "MALESUADA-PELL-202312",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh. Integer ultrices nec metus id tempor. Quisque in quam volutpat, imperdiet ex ut, ullamcorper ante. Fusce ac placerat est. Nulla id neque magna. Nunc dapibus metus risus, in viverra tellus porta eget. Aliquam vel nunc nisl. Curabitur consequat nisl id arcu vestibulum, quis auctor elit elementum. Vestibulum vitae enim ut leo sagittis elementum vitae lacinia turpis. In euismod purus sit amet erat elementum, at vehicula orci ultrices.</p><p>Phasellus ut egestas dui, at accumsan sapien. Donec hendrerit a lorem a pellentesque. Phasellus blandit, justo sit amet lacinia ultricies, risus nisl aliquam eros, quis vehicula neque felis non nisi. Praesent ultrices nec turpis ac auctor. Praesent hendrerit mi sed lobortis lobortis. Aenean malesuada tristique gravida. Morbi eleifend enim eu ante imperdiet dignissim.</p><p>Cras et enim vitae leo feugiat aliquam. Proin non lacus lectus. Donec imperdiet risus quis elit porta porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque rhoncus ut justo non posuere. Integer mollis neque at enim egestas luctus. Mauris luctus sapien eget luctus consectetur. Duis quis nulla nunc.</p><p>Praesent ullamcorper nulla tellus, id facilisis erat bibendum vitae. Cras eget nulla ut metus iaculis auctor. Vestibulum imperdiet est sit amet est accumsan, a sagittis nisl pharetra. Phasellus hendrerit in leo quis pharetra. Nullam consectetur imperdiet ultrices. Sed interdum risus mauris, id imperdiet massa porttitor ac. Cras viverra ipsum sed tincidunt bibendum. Nam vehicula nibh et sem luctus aliquam. Duis nec porttitor magna. Donec congue nunc condimentum egestas consectetur. Nulla ac nibh quis enim suscipit aliquet vel posuere lectus.</p><p>Phasellus scelerisque risus risus, sit amet molestie velit vulputate ut. Morbi ut risus facilisis, volutpat mi ac, pharetra odio. Quisque semper dapibus dui, vel sagittis ipsum auctor sit amet. Aliquam nec pretium ipsum, sit amet condimentum tortor. Nulla commodo mi ut leo sollicitudin sollicitudin. Vivamus ut faucibus arcu. Integer elit nunc, iaculis non augue vitae, elementum euismod ex. Cras eu luctus purus, eu fringilla dolor. Pellentesque iaculis sodales sem, nec suscipit ante sollicitudin nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet pharetra augue. Morbi in metus mattis, ullamcorper eros id, congue quam. In viverra, elit sed dignissim consectetur, tortor eros maximus magna, nec porta magna elit vitae eros.</p>",
+      "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh.Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh."
+    },
+    {
+      "profilePhotoPath": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1aiteh.img?w=1920&h=1080&q=60&m=2&f=jpg",
+      "author": "Sush001",
+      "authorFullName": "Sushant Patil",
+      "publishedDate": "Jul 18, 2022",
+      "title": "Egestas sed sed risus pretium quam. Eget mi proin sed libero enim sed faucibus.Egestas sed sed risus pretium quam. Eget mi proin sed libero enim sed faucibus.",
+      "postId": "MALESUADA-PELL-202312",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh. Integer ultrices nec metus id tempor. Quisque in quam volutpat, imperdiet ex ut, ullamcorper ante. Fusce ac placerat est. Nulla id neque magna. Nunc dapibus metus risus, in viverra tellus porta eget. Aliquam vel nunc nisl. Curabitur consequat nisl id arcu vestibulum, quis auctor elit elementum. Vestibulum vitae enim ut leo sagittis elementum vitae lacinia turpis. In euismod purus sit amet erat elementum, at vehicula orci ultrices.</p><p>Phasellus ut egestas dui, at accumsan sapien. Donec hendrerit a lorem a pellentesque. Phasellus blandit, justo sit amet lacinia ultricies, risus nisl aliquam eros, quis vehicula neque felis non nisi. Praesent ultrices nec turpis ac auctor. Praesent hendrerit mi sed lobortis lobortis. Aenean malesuada tristique gravida. Morbi eleifend enim eu ante imperdiet dignissim.</p><p>Cras et enim vitae leo feugiat aliquam. Proin non lacus lectus. Donec imperdiet risus quis elit porta porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque rhoncus ut justo non posuere. Integer mollis neque at enim egestas luctus. Mauris luctus sapien eget luctus consectetur. Duis quis nulla nunc.</p><p>Praesent ullamcorper nulla tellus, id facilisis erat bibendum vitae. Cras eget nulla ut metus iaculis auctor. Vestibulum imperdiet est sit amet est accumsan, a sagittis nisl pharetra. Phasellus hendrerit in leo quis pharetra. Nullam consectetur imperdiet ultrices. Sed interdum risus mauris, id imperdiet massa porttitor ac. Cras viverra ipsum sed tincidunt bibendum. Nam vehicula nibh et sem luctus aliquam. Duis nec porttitor magna. Donec congue nunc condimentum egestas consectetur. Nulla ac nibh quis enim suscipit aliquet vel posuere lectus.</p><p>Phasellus scelerisque risus risus, sit amet molestie velit vulputate ut. Morbi ut risus facilisis, volutpat mi ac, pharetra odio. Quisque semper dapibus dui, vel sagittis ipsum auctor sit amet. Aliquam nec pretium ipsum, sit amet condimentum tortor. Nulla commodo mi ut leo sollicitudin sollicitudin. Vivamus ut faucibus arcu. Integer elit nunc, iaculis non augue vitae, elementum euismod ex. Cras eu luctus purus, eu fringilla dolor. Pellentesque iaculis sodales sem, nec suscipit ante sollicitudin nec. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet pharetra augue. Morbi in metus mattis, ullamcorper eros id, congue quam. In viverra, elit sed dignissim consectetur, tortor eros maximus magna, nec porta magna elit vitae eros.</p>",
+      "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tincidunt non libero in posuere. Curabitur efficitur, ligula vitae pharetra facilisis, nisl elit sagittis risus, ac suscipit ex arcu id odio. Aliquam tempus diam ex, at lobortis elit aliquam sed. Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh.Integer imperdiet diam quis elementum lacinia. Duis ultrices purus leo. Cras erat elit, ultricies nec luctus in, egestas at turpis. Fusce ultricies, elit varius commodo sodales, turpis tortor vulputate neque, eget sollicitudin justo erat non nibh."
+    }
+  ]
+}

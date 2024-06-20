@@ -1,0 +1,90 @@
+.footerLayout {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-right: 10px;
+    background-color: black;
+    color: white;
+    text-align: right;
+    height: 25px;
+    z-index: 999;
+}
+
+.flexLayout {
+    display: flex;
+    flex-direction: column;
+}
+
+.gridLayout {
+    margin: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20%, 1fr));
+    grid-gap: 20px;
+}
+
+.bodyStyle {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    position: fixed;
+    z-index: 1;
+    display: block;
+    filter: opacity(50%);
+    background-size: cover; 
+    background-image: url('https://img.freepik.com/free-photo/person-writing-office_53876-94944.jpg?w=740&t=st=1682369667~exp=1682370267~hmac=862920bbeeed2ad3ed2370317546540c2ca42e83c0edc0d34f3d6de33ee0cb2f');
+}
+
+.contentStyle {
+    left: 0;
+    right: 0;
+    position: fixed;
+    z-index: 9999;
+    width: 40rem;
+    margin: auto; 
+    margin-top:5rem;
+    padding: 1rem 2rem 1rem 2rem;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 3px 8px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.centerStyle {
+    margin-left: 50%;
+    margin-top: 5rem;
+}
+
+.tileList {
+    margin-top: 2%;
+}
+
+.tile {
+    padding-top: 1%;
+    border-bottom: 1px solid rgb(222, 226, 230);
+}
+
+.tileGridContainer{
+    padding-bottom: 1rem;
+    display: grid;
+    height: 13rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr
+}
+
+.tileText {  
+    height: 10rem;
+    line-height: 1.5rem;
+    grid-column: 1 / 5;
+    padding-right: 5%;
+}
+.tileImage {
+    grid-column: 5 / 6;
+}
+
+.line-clamp {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;  
+  }
+

@@ -1,0 +1,48 @@
+.authorInfo {
+    grid-column: 10/13;
+    padding-left: 2rem;
+    border-left:  1px solid rgb(222, 226, 230);
+    float: right;
+    font-size: 1rem;
+    color: #7d848b;
+}
+
+.authorInfo > .sticky {
+    position: sticky;
+    top: 5rem;
+    display: grid;
+    line-height: 1.5rem;
+    grid-gap: 1.5rem;
+    grid-template-rows: 10rem auto auto auto;
+}
+
+.sticky .name {
+    font-size: 1.4rem;
+    color: black;
+    font-weight: bold;
+}
+
+.sticky .followBtn {
+    background-color: green;
+    color: white;
+    border: 0;
+    padding: 0.5rem 1rem;
+    border-radius: 100px;
+    box-sizing: border-box;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.sticky .followingBtn {
+    border: 1px solid green;
+    color: green;
+    background-color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 100px;
+    box-sizing: border-box;
+}
+.sticky .followBtn:hover {
+    opacity: 1;
+}
